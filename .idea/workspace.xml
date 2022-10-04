@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac04b02-3734-4de1-bce7-a4a95422d772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/info.tsx" afterDir="false" />
+    <list default="true" id="aac04b02-3734-4de1-bce7-a4a95422d772" name="Changes" comment="Gatsby에서의 페이지 이동 방법">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/info.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/info.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,17 +63,20 @@
       <option name="presentableId" value="Default" />
       <updated>1662436572056</updated>
       <workItem from="1662436573871" duration="1290000" />
-      <workItem from="1664890771767" duration="2073000" />
+      <workItem from="1664890771767" duration="2513000" />
     </task>
+    <task id="LOCAL-00001" summary="Gatsby에서의 페이지 이동 방법">
+      <created>1664894586732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664894586732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/src/pages/index.js" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -84,6 +88,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Gatsby에서의 페이지 이동 방법" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gatsby에서의 페이지 이동 방법" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
