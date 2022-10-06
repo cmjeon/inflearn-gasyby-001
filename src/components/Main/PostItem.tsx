@@ -98,7 +98,7 @@ const PostItem: FunctionComponent<PostItemProps> = function (
   }
 ) {
   return (
-    <PostItemWrapper>
+    <PostItemWrapper to={link}>
       <ThumbnailImage src={thumbnail} alt="Post Item Image" />
 
       <PostItemContent>
