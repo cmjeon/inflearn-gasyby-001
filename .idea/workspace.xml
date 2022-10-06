@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac04b02-3734-4de1-bce7-a4a95422d772" name="Changes" comment="EmotionJS 라이브러리란 무엇일까?">
+    <list default="true" id="aac04b02-3734-4de1-bce7-a4a95422d772" name="Changes" comment="EmotionJS 라이브러리를 통한 컴포넌트 스타일링 방법">
+      <change afterPath="$PROJECT_DIR$/src/components/Common/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Common/GlobalStyle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Introduction.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/info.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/info.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Main" />
       <recent name="$PROJECT_DIR$/src/pages" />
     </key>
   </component>
@@ -59,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662436572056</updated>
       <workItem from="1662436573871" duration="1290000" />
-      <workItem from="1664890771767" duration="6022000" />
+      <workItem from="1664890771767" duration="7396000" />
     </task>
     <task id="LOCAL-00001" summary="Gatsby에서의 페이지 이동 방법">
       <created>1664894586732</created>
@@ -75,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664894995067</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="EmotionJS 라이브러리를 통한 컴포넌트 스타일링 방법">
+      <created>1664983490134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664983490134</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +106,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Gatsby에서의 페이지 이동 방법" />
     <MESSAGE value="EmotionJS 라이브러리란 무엇일까?" />
-    <option name="LAST_COMMIT_MESSAGE" value="EmotionJS 라이브러리란 무엇일까?" />
+    <MESSAGE value="EmotionJS 라이브러리를 통한 컴포넌트 스타일링 방법" />
+    <option name="LAST_COMMIT_MESSAGE" value="EmotionJS 라이브러리를 통한 컴포넌트 스타일링 방법" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
