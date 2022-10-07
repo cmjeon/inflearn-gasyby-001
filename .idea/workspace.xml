@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac04b02-3734-4de1-bce7-a4a95422d772" name="Changes" comment="Markdown 파일을 사용하기 위한 라이브러리 세팅하기">
-      <change afterPath="$PROJECT_DIR$/contents/test.md" afterDir="false" />
+    <list default="true" id="aac04b02-3734-4de1-bce7-a4a95422d772" name="Changes" comment="Markdown 파일 추가 후, GraphQL Query 확인해보기">
+      <change afterPath="$PROJECT_DIR$/contents/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/test2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/test2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/PostItem.types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contents/test.md" beforeDir="false" afterPath="$PROJECT_DIR$/contents/test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/PostItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/PostItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/PostList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/PostList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/cmj/Projects/inflearn-gatsby-001/contents",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,6 +54,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/contents" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/Main" />
       <recent name="$PROJECT_DIR$/src/pages" />
@@ -59,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662436572056</updated>
       <workItem from="1662436573871" duration="1290000" />
-      <workItem from="1664890771767" duration="13736000" />
+      <workItem from="1664890771767" duration="16571000" />
     </task>
     <task id="LOCAL-00001" summary="Gatsby에서의 페이지 이동 방법">
       <created>1664894586732</created>
@@ -145,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665146847349</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Markdown 파일 추가 후, GraphQL Query 확인해보기">
+      <created>1665147149708</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665147149708</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +194,8 @@
     <MESSAGE value="npm -&gt; yarn" />
     <MESSAGE value="오타수정" />
     <MESSAGE value="Markdown 파일을 사용하기 위한 라이브러리 세팅하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Markdown 파일을 사용하기 위한 라이브러리 세팅하기" />
+    <MESSAGE value="Markdown 파일 추가 후, GraphQL Query 확인해보기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Markdown 파일 추가 후, GraphQL Query 확인해보기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
