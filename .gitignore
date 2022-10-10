@@ -68,5 +68,11 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
-# idea
+# IntelliJ project files
 .idea
+.idea/*.xml
+*.iml
+out
+gen
+build
+rebel.xml
